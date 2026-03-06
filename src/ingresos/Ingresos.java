@@ -13,5 +13,4 @@ public class Ingresos {
     public double getMonto() {
         return monto;
     }
-    
 }
